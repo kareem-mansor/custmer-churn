@@ -67,7 +67,7 @@ In addition to the machine learning model, we have created an interactive Power 
 - **Power BI**: For creating interactive visualizations and dashboards.
 
 ## Future Enhancements
-- Add support for real-time churn prediction using APIs.
+- Add Support for real-time churn prediction using APIs.
 - Incorporate additional visualization tools like Tableau.
 - Extend the Power BI report with more granular filters and predictive insights.
 - Explore deep learning models for improved accuracy.
